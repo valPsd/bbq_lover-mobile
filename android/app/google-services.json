@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "434147033815",
+    "project_id": "bbq-lover-87318",
+    "storage_bucket": "bbq-lover-87318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434147033815:android:161677c7bfee64349be692",
+        "android_client_info": {
+          "package_name": "com.example.bbq_lover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434147033815-9qv6mckc1qbd7c17fpmuh3uf9bblrpt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4AJeofrvdqIO7ojfciCx2B3ixfhb-xZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434147033815-9qv6mckc1qbd7c17fpmuh3uf9bblrpt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
